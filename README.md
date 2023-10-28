@@ -1,5 +1,13 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg)
 
+# Analog Clock Project
+
+https://wokwi.com/projects/377874364814194689
+
+The project was to make an analog clock using leds, with the chip as the led controller.
+
+read [info.yaml](info.yaml) for more info
+
 # What is Tiny Tapeout?
 
 TinyTapeout is an educational project that aims to make it easier and cheaper than ever to get your digital designs manufactured on a real chip.
