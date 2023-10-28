@@ -28,10 +28,8 @@ documentation:
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
-      Counter for 10k clk cycles for measuring 1 sec. increments seconds counter
-      seconds Counter for 60 sec. increments min counter
-      min Counter for 60 min. increments hour counter
-      hour Counter for 12 hours
+      Counter for 10k clk cycles for measuring 1 sec. increments seconds Counter for 60 sec.
+      increments min Counter for 60 min. increments hour counter for 12 hours
 
       all daisy chained.
 
@@ -42,7 +40,9 @@ documentation:
       connect leds to each output pin as described below
       
       RST will set the time to 11:59. 
+      
       Input Pins 7/8 are used to set the time, by toggling those it should increment the internal clock by 1 min/hour. You should see the output update.
+      
       Input Pin 1 will stop the clock when high
 
 # A description of what the inputs do (e.g. red button, SPI CLK, SPI MOSI, etc).
