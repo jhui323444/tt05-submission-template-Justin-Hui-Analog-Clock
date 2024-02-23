@@ -2,7 +2,7 @@
 
 # Analog Clock Project
 
-https://wokwi.com/projects/377874364814194689
+https://wokwi.com/projects/379824923824476161
 
 The project was to make an analog clock using leds, with the chip as the led controller.
 
